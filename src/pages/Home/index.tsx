@@ -1,6 +1,5 @@
 import { ProductCard, Layout } from "../../components";
 import { Link } from "react-router-dom";
-import images from "../../assets/images";
 
 // Datos simulados de productos Ulefone Armor
 const armorPhones = [
